@@ -1,0 +1,499 @@
+source,target,weight
+vfa,phb,5500
+algae,biomass,4947
+bioremediation,algae,3879
+biochar,nanoparticle,3232
+bio-electrochemical system,mfc,2965
+mfc,biocathode,2892
+bioremediation,biochar,2554
+bio-electrochemical system,biochar,2465
+algae,wastewater,2393
+bioremediation,biomass,2293
+bioremediation,wastewater,2262
+mfc,wastewater,2172
+algae,bioplastic,2009
+co2 capture,algae,1858
+bio-electrochemical system,bioremediation,1570
+biomass,wastewater,1564
+bio-electrochemical system,electrosynthesis,1521
+co2 capture,methane,1506
+bio-electrochemical system,algae,1505
+mfc,algae,1494
+biochar,algae,1361
+bioplastic,wastewater,1326
+bio-electrochemical system,biocathode,1238
+methane,biogas,1217
+biomass,biogas,1211
+bioremediation,biogas,1132
+biochar,biomass,1084
+food source,algae,1010
+bioplastic,biogas,993
+bio-electrochemical system,acetate,958
+algae,fertilizer production,925
+biochar,wastewater,909
+methane,biomass,908
+biochar,methane,862
+pha,bioplastic,847
+biomass,bioplastic,772
+algae,biogas,724
+co2 capture,biomass,637
+MES,bio-electrochemical system,630
+biomass,fertilizer production,611
+algae,biocathode,606
+methane,biocathode,573
+food source,biomass,517
+algae,nanoparticle,494
+pretreatment,biomass,464
+biochar,electrosynthesis,460
+food source,bioplastic,458
+algae,immobilization,455
+bio-electrochemical system,biogas,426
+nutrient mining,wastewater,408
+bio-electrochemical system,nanoparticle,380
+co2 capture,biogas,378
+HRAP,algae,370
+acetate,electrosynthesis,365
+pretreatment,algae,362
+acetate,bioplastic,354
+phb,bioplastic,332
+bio-electrochemical system,wastewater,330
+nutrient mining,algae,321
+bio-electrochemical system,biomass,321
+wastewater,biogas,319
+algae,machine learning,314
+algae,life support,309
+BLSS,algae,308
+biomass,nanoparticle,306
+co2 capture,bio-electrochemical system,305
+methane,algae,304
+pretreatment,methane,292
+algae,astrobiology,291
+immobilization,biomass,289
+life support,biomass,287
+biofuel,algae,281
+nutrient mining,biomass,268
+astrobiology,biomass,268
+bio-electrochemical system,methane,267
+algae,uv,262
+bio-electrochemical system,anaerobic digestion,257
+vfa,biogas,242
+methane,acetate,240
+MEC,bio-electrochemical system,238
+vfa,biomass,235
+anaerobic digestion,algae,223
+vfa,methane,215
+co2 capture,bioplastic,205
+mfc,biomass,205
+radiation,algae,204
+vfa,pretreatment,193
+bio-electrochemical system,immobilization,191
+life support,bioplastic,181
+immobilization,biocathode,180
+HRAP,wastewater,177
+acetate,biomass,175
+algae,electrosynthesis,173
+electrosynthesis,biogas,161
+fertilizer production,biogas,156
+pha,algae,155
+bioplastic,fertilizer production,151
+methane,bioplastic,151
+bioremediation,food source,151
+phb,algae,150
+food waste,biochar,150
+anaerobic digestion,biogas,149
+biomass,machine learning,146
+vfa,bio-electrochemical system,145
+bioremediation,methane,142
+electrosynthesis,biocathode,142
+bio-electrochemical system,machine learning,140
+biofuel,biomass,138
+pha,biomass,137
+anaerobic digestion,methane,132
+nanoparticle,wastewater,131
+pretreatment,wastewater,131
+algae,acetate,130
+bio-electrochemical system,pha,130
+bio-electrochemical system,bioplastic,130
+anaerobic digestion,biomass,129
+vfa,wastewater,128
+HRAP,biomass,128
+microgravity,algae,127
+MES,electrosynthesis,126
+pretreatment,bio-electrochemical system,124
+vfa,bioplastic,123
+wastewater,fertilizer production,122
+biochar,biogas,120
+algae,iss,116
+co2 capture,electrosynthesis,115
+vfa,anaerobic digestion,113
+vfa,algae,112
+bioremediation,bioplastic,112
+BLSS,bio-electrochemical system,111
+BLSS,anaerobic digestion,109
+anaerobic digestion,bioplastic,107
+pretreatment,biogas,107
+uv,biomass,104
+pha,electrosynthesis,97
+BLSS,biomass,97
+pretreatment,acetate,97
+anaerobic digestion,biochar,96
+MES,algae,96
+co2 capture,wastewater,95
+bio-electrochemical system,algal biomass,94
+MEC,algae,92
+anaerobic digestion,algal biomass,91
+methane,wastewater,91
+phb,biomass,88
+biomass,biocathode,88
+anaerobic digestion,HRAP,86
+pretreatment,biochar,85
+anaerobic digestion,acetate,84
+pretreatment,bioremediation,84
+algal biomass,algae,84
+pretreatment,bioplastic,83
+algae,biogas upgrading,81
+BLSS,HRAP,80
+MEC,wastewater,80
+bio-electrochemical system,astrobiology,79
+electrosynthesis,biomass,79
+immobilization,wastewater,77
+anaerobic digestion,pha,76
+pretreatment,anaerobic digestion,75
+anaerobic digestion,biocathode,75
+machine learning,wastewater,75
+bio-electrochemical system,HRAP,75
+anaerobic digestion,wastewater,74
+mfc,electrosynthesis,74
+immobilization,nanoparticle,74
+bio-electrochemical system,biogas upgrading,73
+bio-electrochemical system,co-digestion,73
+anaerobic digestion,mfc,73
+anaerobic digestion,phb,72
+co2 capture,anaerobic digestion,72
+co-digestion,algae,71
+radiation,biomass,71
+anaerobic digestion,biogas upgrading,71
+biochar,immobilization,71
+BLSS,bioplastic,68
+bioremediation,immobilization,67
+anaerobic digestion,astrobiology,67
+HRAP,bioplastic,66
+MES,wastewater,66
+nanoparticle,biogas,65
+pha,wastewater,65
+mfc,immobilization,65
+pretreatment,nanoparticle,65
+acetate,biogas,63
+nutrient mining,anaerobic digestion,62
+vfa,electrosynthesis,62
+MEC,biomass,62
+bio-electrochemical system,life support,62
+acetate,wastewater,61
+wastewater,biocathode,61
+vfa,food source,59
+MES,biomass,59
+anaerobic digestion,immobilization,57
+MEC,electrosynthesis,57
+BLSS,food source,57
+microgravity,biomass,57
+phb,pha,57
+iss,biomass,55
+biofuel,anaerobic digestion,55
+hydrogel,immobilization,54
+anaerobic digestion,food source,53
+MEC,methane,53
+anaerobic digestion,nanoparticle,53
+biogas upgrading,biomass,52
+MEC,anaerobic digestion,52
+biochar,bioplastic,51
+anaerobic digestion,co-digestion,51
+nutrient mining,bio-electrochemical system,49
+BLSS,wastewater,48
+anaerobic digestion,fertilizer production,48
+bio-electrochemical system,fertilizer production,48
+anaerobic digestion,electrosynthesis,48
+HRAP,bioremediation,47
+electrosynthesis,nanoparticle,47
+bio-electrochemical system,food source,46
+BLSS,algal biomass,45
+methane,electrosynthesis,45
+methane,nanoparticle,45
+bioplastic,machine learning,45
+BLSS,immobilization,44
+BLSS,biogas,44
+pretreatment,mfc,44
+MES,anaerobic digestion,43
+HRAP,biogas,43
+BLSS,pretreatment,43
+bio-electrochemical system,phb,42
+BLSS,methane,42
+bio-electrochemical system,biofuel,42
+algal biomass,bioplastic,42
+food source,wastewater,42
+anaerobic digestion,life support,42
+electrosynthesis,bioplastic,41
+BLSS,electrosynthesis,41
+bioplastic,nanoparticle,41
+microgravity,bio-electrochemical system,41
+immobilization,bioplastic,41
+bio-electrochemical system,uv,40
+food source,fertilizer production,40
+anaerobic digestion,iss,40
+anaerobic digestion,uv,40
+radiation,anaerobic digestion,40
+electrosynthesis,wastewater,39
+uv,wastewater,39
+radiation,bio-electrochemical system,39
+microgravity,anaerobic digestion,39
+phb,wastewater,39
+bio-electrochemical system,iss,39
+BLSS,biogas upgrading,38
+anaerobic digestion,bioremediation,38
+BLSS,co-digestion,38
+BLSS,phb,38
+pretreatment,food source,38
+mfc,bioplastic,37
+food source,methane,37
+MES,bioplastic,36
+biogas upgrading,bioplastic,36
+bioplastic,biocathode,35
+mfc,methane,35
+MEC,bioplastic,35
+biofuel,algal biomass,35
+uv,bioplastic,35
+food source,life support,33
+astrobiology,bioplastic,33
+iss,bioplastic,33
+co-digestion,bioplastic,33
+microgravity,bioplastic,33
+food source,biogas,32
+radiation,bioplastic,32
+pretreatment,pha,31
+pretreatment,uv,31
+nutrient mining,algal biomass,30
+phb,acetate,30
+algal biomass,biomass,30
+pretreatment,fertilizer production,28
+anaerobic digestion,machine learning,28
+electrosynthesis,immobilization,28
+electrosynthesis,machine learning,27
+mfc,biogas,27
+food source,machine learning,27
+food source,acetate,26
+biochar,food source,26
+HRAP,biochar,25
+algal biomass,wastewater,25
+co2 capture,HRAP,25
+machine learning,biogas,25
+nutrient mining,pretreatment,24
+pretreatment,immobilization,24
+bioremediation,electrosynthesis,24
+biofuel,wastewater,24
+pretreatment,machine learning,24
+biogas upgrading,biogas,24
+life support,wastewater,24
+pretreatment,electrosynthesis,23
+algal biomass,bioremediation,23
+algal biomass,biochar,23
+MEC,biogas,23
+immobilization,machine learning,23
+pretreatment,biofuel,22
+methane,machine learning,22
+co2 capture,pretreatment,22
+co2 capture,algal biomass,22
+MES,methane,22
+HRAP,algal biomass,22
+pretreatment,algal biomass,21
+mfc,food source,20
+pretreatment,phb,20
+biocathode,biogas,20
+algal biomass,biogas,19
+algal biomass,machine learning,19
+HRAP,methane,19
+nutrient mining,biogas,19
+co2 capture,food source,18
+pha,food source,18
+HRAP,food source,18
+co-digestion,biomass,17
+pha,methane,17
+algal biomass,nanoparticle,17
+co2 capture,immobilization,17
+immobilization,biogas,17
+co2 capture,biogas upgrading,16
+food source,immobilization,16
+algal biomass,immobilization,16
+pretreatment,HRAP,16
+phb,bioremediation,16
+pretreatment,biocathode,15
+algal biomass,fertilizer production,15
+MES,biogas,15
+immobilization,fertilizer production,15
+life support,biogas,15
+methane,fertilizer production,14
+co2 capture,phb,14
+food source,nanoparticle,14
+food source,astrobiology,14
+nutrient mining,immobilization,14
+nutrient mining,HRAP,14
+HRAP,immobilization,14
+algal biomass,biocathode,14
+biofuel,biogas,14
+co-digestion,algal biomass,14
+algal biomass,food source,14
+biofuel,immobilization,13
+algal biomass,methane,13
+phb,methane,13
+uv,immobilization,13
+astrobiology,wastewater,13
+phb,biogas,13
+algal biomass,mfc,13
+algal biomass,biogas upgrading,12
+co-digestion,agricultural waste,12
+MES,pretreatment,12
+pha,biogas,12
+MES,algal biomass,12
+co-digestion,food waste,12
+vfa,immobilization,12
+acetate,immobilization,12
+microgravity,space research,12
+nutrient mining,food source,12
+radiation,wastewater,12
+radiation,space research,12
+HRAP,uv,12
+HRAP,biocathode,12
+algal biomass,acetate,12
+algal biomass,electrosynthesis,12
+space research,life support,12
+space research,uv,12
+space research,astrobiology,12
+methane,immobilization,12
+MEC,algal biomass,12
+space research,iss,12
+vfa,algal biomass,11
+phb,electrosynthesis,11
+algal biomass,phb,11
+algal biomass,pha,11
+HRAP,electrosynthesis,11
+phb,biochar,11
+radiation,pretreatment,11
+algal biogas upgrading,biogas,11
+nutrient mining,electrosynthesis,11
+iss,wastewater,11
+pretreatment,life support,11
+nutrient mining,biogas upgrading,10
+algal biomass,life support,10
+algal biomass,uv,10
+HRAP,acetate,10
+MES,immobilization,10
+pha,immobilization,10
+radiation,algal biomass,10
+algae,phage,10
+methane,uv,10
+MEC,immobilization,10
+MEC,pretreatment,10
+methane,algal biogas upgrading,10
+food source,biocathode,10
+food source,uv,10
+food source,electrosynthesis,10
+MEC,food source,10
+electrosynthesis,fertilizer production,10
+food source,iss,10
+space research,food source,10
+microgravity,wastewater,10
+methane,life support,10
+HRAP,astrobiology,10
+HRAP,fertilizer production,10
+anaerobic digestion,phage,10
+HRAP,mfc,10
+BLSS,space research,10
+phb,nanoparticle,10
+bioremediation,biogas upgrading,10
+HRAP,machine learning,10
+phb,machine learning,9
+MES,phb,9
+algal biomass,iss,9
+algal biomass,astrobiology,9
+radiation,biogas,9
+nutrient mining,bioplastic,9
+iss,biogas,9
+radiation,immobilization,9
+algae,algal biogas upgrading,9
+methane,astrobiology,9
+biochar,biogas upgrading,9
+microgravity,algal biomass,9
+pretreatment,iss,9
+pretreatment,astrobiology,9
+phage,wastewater,9
+astrobiology,biogas,9
+astrobiology,immobilization,9
+microgravity,biogas,9
+phb,immobilization,9
+HRAP,nanoparticle,8
+HRAP,iss,8
+biofuel,methane,8
+HRAP,co-digestion,8
+HRAP,biogas upgrading,8
+radiation,food source,8
+radiation,HRAP,8
+uv,biogas,8
+MEC,HRAP,8
+life support,immobilization,8
+iss,immobilization,8
+nutrient mining,methane,8
+nutrient mining,phb,8
+mfc,phb,8
+HRAP,pha,8
+microgravity,pretreatment,8
+pretreatment,co-digestion,8
+methane,iss,8
+microgravity,food source,8
+biofuel,HRAP,8
+microgravity,HRAP,8
+co-digestion,biochar,8
+MES,HRAP,8
+co-digestion,biogas,8
+HRAP,phage,8
+co-digestion,immobilization,8
+co-digestion,methane,8
+co-digestion,bioremediation,7
+MES,food source,7
+biofuel,food source,7
+microgravity,immobilization,7
+phb,fertilizer production,7
+co-digestion,machine learning,7
+phb,food source,7
+phb,biogas upgrading,7
+phb,biocathode,7
+HRAP,life support,7
+life support,electrosynthesis,7
+biogas upgrading,wastewater,7
+radiation,methane,7
+nutrient mining,co-digestion,7
+microgravity,methane,7
+methane,biogas upgrading,7
+biogas upgrading,immobilization,6
+radiation,electrosynthesis,6
+HRAP,phb,6
+co-digestion,wastewater,6
+pretreatment,food waste,6
+pretreatment,biogas upgrading,6
+food waste,biogas,6
+biofuel,electrosynthesis,6
+co-digestion,fertilizer production,6
+phb,life support,6
+uv,electrosynthesis,6
+astrobiology,electrosynthesis,6
+microgravity,electrosynthesis,6
+iss,electrosynthesis,6
+co-digestion,phb,5
+co-digestion,pha,5
+co-digestion,biocathode,5
+co-digestion,nanoparticle,5
+phb,uv,5
+co-digestion,acetate,5
+biofuel,biogas upgrading,5
+biofuel,bioplastic,5
+vfa,co-digestion,5
+vfa,HRAP,5
+biogas upgrading,nanoparticle,5
+biogas upgrading,machine learning,5
